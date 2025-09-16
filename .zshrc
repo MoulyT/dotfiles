@@ -321,3 +321,5 @@ eval "$(zoxide init --cmd cd zsh)"
 #   - Search by date, directory, or exit status
 #   - Up arrow for local history, Alt-Up for global
 eval "$(atuin init zsh)"
+
+alias claude="/Users/mouly/.claude/local/claude"
